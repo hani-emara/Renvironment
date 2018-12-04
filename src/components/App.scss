@@ -1,0 +1,10 @@
+h1{
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  font-weight: lighter;
+  opacity: 0.9;
+  transition: (opacity, 0.3s)
+}
+h1:hover {
+  opacity: 0.2
+}
